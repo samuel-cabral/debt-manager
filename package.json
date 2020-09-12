@@ -1,0 +1,7 @@
+{
+  "name": "debt-manager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Samuel Cabral <samuelcabral.mail@gmail.com>",
+  "license": "MIT"
+}
